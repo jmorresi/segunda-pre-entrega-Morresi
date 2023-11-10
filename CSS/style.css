@@ -3,11 +3,19 @@
     src: url(../Fonts/times_sans_serif/TIMESS__.ttf);
 }
 
+nav {
+    font-family: "timess";
+    margin-left: 37%
+}
 
 .logo {
     width: 10% ;
     position: relative;
     margin-left: 45%;
+}
+
+body {
+    background-color: bisque;
 }
 
 header{
