@@ -4,6 +4,9 @@
     src: url(../Fonts/times_sans_serif/TIMESS__.ttf);
 }
 
+.container {
+    margin-left: 40%;
+}
 .logo {
     width: 10% ;
     position: relative;
